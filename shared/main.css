@@ -278,6 +278,18 @@
     background: url('/shared/public/card_pic.png') no-repeat center/cover;
 }
 
+.card-image-2 {
+    width: 50%;
+    height: 100%;
+    background: url('/shared/public/card-2.png') no-repeat center/cover;
+}
+
+.card-image-3 {
+    width: 50%;
+    height: 100%;
+    background: url('/shared/public/card-3.png') no-repeat center/cover;
+}
+
 .card-content {
     width: 50%;
     height: 100%;
@@ -414,6 +426,17 @@
     height: 100px;
     flex-shrink: 0;
     background: url('./public/apple.png') no-repeat center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.announcement-card-img-2{
+    width: 160px;
+    height: 100px;
+    flex-shrink: 0;
+    background: url('./public/news-2.png') no-repeat center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -617,6 +640,14 @@
     background-size: cover;
     background-position: center;
     background-image: url('./public/card_pic.png');
+}
+
+.featured-album-card-img-2 {
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    background-image: url('./public/school-life.png');
 }
 
 .featured-album-card-text {
