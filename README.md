@@ -7,7 +7,6 @@
 ## 📌 Features
 - Responsive design
 - Interactive UI
-- Custom animations
 
 ## 🛠️ Technologies
 - HTML, CSS, JavaScript
